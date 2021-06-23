@@ -14,9 +14,6 @@
 # Juliana Nunes Leivas 
 <sub>*Future Data Analyst* </sub>
 
-I'm physicist at (UNESP) and I have some experiences in oilfield as 'data operator', where I worked as mlwd (monitoring real data from drilling field). I have learned to adapt quickly with new technologies, solving problem in high pressure environments. I combine analytical and soft skills. I learning and improve my knowledges on Artificial Inteligence, Machine Learning, Deep learning, Big Data analysis to solve real problems on my master thesis, I developed a critical thinking and problems.
-
-I'
 
 **Background in:** Python, R, Matlab, Machine Learning, Deep learning, Statistics and Mathematical Optimisation.
 
